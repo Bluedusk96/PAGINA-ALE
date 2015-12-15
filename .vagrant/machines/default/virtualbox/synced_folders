@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/pagina-ale":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/pagina-ale","hostpath":"C:/Users/Utente/Documents/GitHub/PAGINA-ALE","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Utente/Documents/GitHub/PAGINA-ALE","disabled":false}}}
