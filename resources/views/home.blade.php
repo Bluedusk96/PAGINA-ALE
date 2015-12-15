@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     
-    <title> Beauty Care Template | WIX</title>
+    <title> 69deep96</title>
     <meta name="description" content="This template's earthy colors and natural theme make it the ideal match for your skincare or cosmetics company. Upload images of your products and customize the text to share your beauty philosophy. By adding items to their cart, customers can make purchases with ease.">
     <meta name="author" content="Wixpress">
     <meta http-equiv="content-language" content="it"/>
